@@ -1,0 +1,11 @@
+//要先做套用才能使用自己的變數
+@import "bootstrap/scss/functions";
+@import "./variables";//不需要加上_
+@import "bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+// //新增變數
+// $body-color:blue;
+// .App-header{
+//     background-color: $body-color;
+// }
